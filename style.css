@@ -1,0 +1,13 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+nav a{
+    text-shadow: 5px 4px 6px yellow;
+}
+line{
+    line-height: 87px;
+}
+.imagecli{
+    width: 5rem;
+}
